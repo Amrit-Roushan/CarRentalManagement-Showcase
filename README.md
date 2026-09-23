@@ -82,39 +82,40 @@ The database is integrated with the Flask backend to provide centralized data ma
 
 ### 🏠 Home Page
 
-![Home Page](Home%20Page.png)
+![Home Page](Screenshots/Home%20Page.png)
 
 ### 🚘 Car Listing
 
-![Car Listing](Car%20Listing.png)
+![Car Listing](Screenshots/Car%20Listing.png)
 
 ### 🚗 Car Details
 
-![Car Details](Car%20Details.png)
+![Car Details](Screenshots/Car%20Details.png)
 
 ### 📅 Booking
 
-![Booking](Booking.png)
+![Booking](Screenshots/Booking.png)
 
 ### 🧾 Booking Summary
 
-![Booking Summary](Booking%20Summary.png)
+![Booking Summary](Screenshots/Booking%20Summary.png)
 
 ### 👤 Customer Dashboard
 
-![Customer Dashboard](Customer%20Dashboard.png)
+![Customer Dashboard](Screenshots/Customer%20Dashboard.png)
 
 ### 🚘 Driver Details
 
-![Driver Details](Driver%20Details.png)
+![Driver Details](Screenshots/Driver%20Details.png)
 
 ### 🔐 Login Page
 
-![Login Page](Login%20Pgae.png)
+![Login Page](Screenshots/Login%20Pgae.png)
 
 ### 📊 Admin Dashboard
 
-![Admin Dashboard](Admin%20Dashboard.png)
+![Admin Dashboard](Screenshots/Admin%20Dashboard.png)
+
 ---
 
 ## 👨‍💻 Developer
